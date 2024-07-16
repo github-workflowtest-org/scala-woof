@@ -14,7 +14,7 @@ The documentation on how to get started with contributing to the agent is hosted
 on that project.
 
 
-### How?
+### How?  
 
 Everything should drive from Gradle, which is bundled in this repository.
 
